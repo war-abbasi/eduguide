@@ -1,0 +1,17 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "how are you?"
+    },
+    {
+      "role": "user",
+      "content": "Tell me about a student life in Germany"
+    },
+    {
+      "role": "user",
+      "content": "Tell me about study abroad"
+    }
+  ],
+  "slots": {}
+}
